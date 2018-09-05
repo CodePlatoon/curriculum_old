@@ -1,13 +1,3 @@
-# Python Modules
-- Same thing as Ruby - libraries that you mix in
-- `import module_name_here` is the same as `require module_name_here`
-- `import module_name_here` at the top to bring it in
-- To call the things in the `module_name_here` file, you just need to call `module_name_here.whatever` to reference it
-- You can `alias` modules so instead of typing out the entire name of the module, you can do `import modules2 as attrs`
-- You can also import specific things from modules: `from module_name_here import thing_you_want_to_import`
-- There are also built-in modules, like `random` that you can call
-- You can run `dir(module_name)` to list out all the methods that a module has. `dir(random)` will return all the methods that the `random` module has. Similar to Ruby's `class_name.methods`
-
 # Objects in Python
 - `help(object_here)` will give you a bit of information on what type of object you're dealing with and some methods that are available to call on it
 - The double underscore you see (`__`) is called a "dunder"
@@ -34,7 +24,7 @@ car2 = Car
 # The `self` keyword
 # You need `self` in order to refer the object to itself
 class Company:
-    name = 'Coding Temple'
+    name = 'Coding Temp'
 
     def intro(self):
         print(f"We are {self.name}")
