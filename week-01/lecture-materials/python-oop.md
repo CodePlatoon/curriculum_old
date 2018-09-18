@@ -4,7 +4,7 @@
     - For example, imagine you have a dog. Every dog has attributes such as breed, weight, and color. Every dog also has methods that it can do, such as sit, fetch, and lay down
 - Objects are organized by `class`-es. Classes are used to combine how data is represented and methods to manipulate data
 - Before we get started, `help(object_here)` will give you a bit of information on what type of object you're dealing with and some methods that are available to call on it
-    - You'll also see methods with double underscores `__`. Those are called `dunder` methods and we'll get into those later
+    - You'll also see methods with double underscores `__`. Those are called `dunder` methods and you can read more about them [here](https://www.python-course.eu/python3_magic_methods.php)
 
 ## Basic Objects
 - Creating a class is as simple as the following:
@@ -54,6 +54,7 @@ class Dog:
         self.breed = breed
     
     def display_info(self):
+        # Below is a multi-line string that is going to print out. Note the specific indentation when you print it out
         print(f"""
 {self.name} is a {self.color} {self.breed}.
 It has with {self.eyes} eyes and {self.legs} legs
@@ -66,13 +67,11 @@ joshs_dog = Dog('Lassie', 'Border Collie', 'black and white')
 jons_dog.display_info()
 joshs_dog.display_info()
 ```
-- Above, I printed a multi-line string. Note the indentation is specific when you print it out
 - The `self` in front of the variables in the `__init__` method makes it an `instance` variable, meaning that it is available everywhere within that instance of the class. Don't confuse this with a `local` variable. A local variable is only local to the method it's defined in. Instance variables can go across methods
 
 
-
 ## Class Variables
-- Let's take a look at the code below. Who can explain what is going on here?
+- Let's take a closer look at class variables. They definitely have their place in certain cases, like the example we have below:
 ```python
 class Employee:
     number_of_employees = 0
@@ -93,4 +92,44 @@ employee_1 = Employee('Jon', 'Young', 50000)
 Employee.number_of_employees
 employee_2 = Employee('Josh', 'Alletto', 51000)
 Employee.number_of_employees
+```
+
+That being said, there are times where you don't want to have class variables. Take a look at this example:
+```python
+class Dog:
+    tricks = []             # mistaken use of a class variable
+
+    def __init__(self, name):
+        self.name = name
+
+    def add_trick(self, trick):
+        self.tricks.append(trick)
+
+d = Dog('Fido')
+e = Dog('Buddy')
+d.add_trick('roll over')
+e.add_trick('play dead')
+d.tricks                # unexpectedly shared by all dogs
+# => ['roll over', 'play dead']
+```
+
+Instead, we want to focus mostly on using local and instance variables. We can rewrite the above as:
+```python
+class Dog:
+
+    def __init__(self, name):
+        self.name = name
+        self.tricks = []    # creates a new empty list for each dog
+
+    def add_trick(self, trick):
+        self.tricks.append(trick)
+
+d = Dog('Fido')
+e = Dog('Buddy')
+d.add_trick('roll over')
+e.add_trick('play dead')
+d.tricks
+# => ['roll over']
+e.tricks
+# => ['play dead']
 ```
