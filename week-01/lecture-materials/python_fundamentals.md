@@ -99,6 +99,12 @@ for fruit in fruits:
     print(fruit)
 
 # each time we iterate over the fruits list, we save the current string as the variable fruit and print it out
+
+```
+- If you wanted to see whether something is in a list, you will use the `in` function that is built into Python:
+```python
+names = ['Jon', 'Rod', 'Josh']
+'Jon' in names # would return True
 ```
 
 ## Data Types: Arrays/List
@@ -127,9 +133,20 @@ user = {
     'age': 30
 }
 
+# you can also write this same hash as
+# user = dict('name'='Jonathan', 'age'='30')
+
 # To access a particular key's value:
 print(user['name'])
+
+# If you want to delete a key/value pair, use "del"
+del(user['age'])
+user
+user['age'] = 28
+user
 ```
+
+
 - Visit [here](https://www.w3schools.com/python/python_ref_dictionary.asp) to see useful Dictionary methods
 
 ## Data Types: Tuples
