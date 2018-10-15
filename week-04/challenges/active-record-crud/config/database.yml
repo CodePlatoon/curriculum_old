@@ -1,0 +1,9 @@
+development:
+  adapter: "postgresql"
+  database: "active-record-crud_development"
+test:
+  adapter: "postgresql"
+  database: "active-record-crud_test"
+production:
+  adapter: "postgresql"
+  database: "active-record-crud_production"

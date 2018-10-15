@@ -1,0 +1,9 @@
+development:
+  adapter: "postgresql"
+  database: "imdb_development"
+test:
+  adapter: "postgresql"
+  database: "imdb_test"
+production:
+  adapter: "postgresql"
+  database: "imdb_production"

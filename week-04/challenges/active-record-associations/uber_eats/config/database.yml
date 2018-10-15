@@ -1,0 +1,9 @@
+development:
+  adapter: "postgresql"
+  database: "uber_eats_development"
+test:
+  adapter: "postgresql"
+  database: "uber_eats_test"
+production:
+  adapter: "postgresql"
+  database: "uber_eats_production"
