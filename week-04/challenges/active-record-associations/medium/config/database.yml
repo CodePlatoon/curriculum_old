@@ -1,9 +1,0 @@
-development:
-  adapter: "postgresql"
-  database: "medium_development"
-test:
-  adapter: "postgresql"
-  database: "medium_test"
-production:
-  adapter: "postgresql"
-  database: "medium_production"

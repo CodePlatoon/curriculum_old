@@ -1,9 +1,0 @@
-development:
-  adapter: "postgresql"
-  database: "amazon_development"
-test:
-  adapter: "postgresql"
-  database: "amazon_test"
-production:
-  adapter: "postgresql"
-  database: "amazon_production"

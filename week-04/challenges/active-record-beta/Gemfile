@@ -1,7 +1,0 @@
-# frozen_string_literal: true
-source "https://rubygems.org"
-
-gem "rspec"
-gem "database_cleaner"
-gem "pg"
-gem "rake"

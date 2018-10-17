@@ -1,9 +1,0 @@
-development:
-  adapter: "postgresql"
-  database: "swim_records_development"
-test:
-  adapter: "postgresql"
-  database: "swim_records_test"
-production:
-  adapter: "postgresql"
-  database: "swim_records_production"
