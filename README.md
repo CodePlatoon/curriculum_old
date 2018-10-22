@@ -10,10 +10,10 @@
 - [X] Week 6 (fully complete - JY)
 - [ ] Week 7 
 - [X] Week 8 (fully complete - JY)
-- [ ] Week 9
-- [ ] Week 10
-- [ ] Week 11
-- [ ] Week 12
+- [X] Week 9 (fully complete - JY)
+- [X] Week 10 (fully complete - JY)
+- [X] Week 11 (fully complete - JY)
+- [X] Week 12 (fully complete - JY)
 
 
 Week 4: https://pgexercises.com/
