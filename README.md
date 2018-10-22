@@ -6,9 +6,9 @@
 - [X] Week 2 (fully complete - JY)
 - [ ] Week 3 (TODO: Jon will rewrite all challenges besides school interface in Python instead of Ruby. Josh will rewrite all school interface into Python instead of Ruby)
 - [ ] Week 4
-- [ ] Week 5
-- [ ] Week 6
-- [ ] Week 7
+- [X] Week 5 (fully complete - JY)
+- [X] Week 6 (fully complete - JY)
+- [ ] Week 7 
 - [ ] Week 8
 - [ ] Week 9
 - [ ] Week 10
