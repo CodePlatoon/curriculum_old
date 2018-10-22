@@ -9,7 +9,7 @@
 - [X] Week 5 (fully complete - JY)
 - [X] Week 6 (fully complete - JY)
 - [ ] Week 7 
-- [ ] Week 8
+- [X] Week 8 (fully complete - JY)
 - [ ] Week 9
 - [ ] Week 10
 - [ ] Week 11
