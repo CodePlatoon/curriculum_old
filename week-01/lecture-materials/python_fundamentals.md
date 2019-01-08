@@ -107,6 +107,19 @@ names = ['Jon', 'Rod', 'Josh']
 'Jon' in names # would return True
 ```
 
+
+## Functions
+- Functions and methods are synonymous
+- It's a program that does the same thing every time. Write it once, execute it over and over again
+```python
+def say_hello(first_name):
+    print(f"Hello there, {first_name}!")
+
+say_hello('Jon')
+# Here we have a method called `say_hello` that takes in a single parameter/argument called `first_name`. We passed in `Jon` as the argument, so `Jon` gets saved as `first_name` when we run through the code. We can then interpolate `first_name` into the string that gets printed out.
+```
+
+
 ## Data Types: Arrays/List
 - Holds an ordered list of values. These values can be anything: strings, numbers, dictionaries, even other lists!
 - Once you put something in an array, it stays at that place forever until you alter the array. You can rely on it always being there. Think of an older person's pill box - the pills for Monday are in the Monday slot. If they were to shake it or drop it or something, it wouldn't matter. Those pills are still at the same place.
@@ -163,14 +176,3 @@ tuple_1 + tuple_2 # ('One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eig
 # Psych! You can't delete a tuple. You can only overwrite it
 ```
 - Visit [here](https://www.w3schools.com/python/python_tuples.asp) to see useful Tuple methods
-
-## Functions
-- Functions and methods are synonymous
-- It's a program that does the same thing every time. Write it once, execute it over and over again
-```python
-def say_hello(first_name):
-    print(f"Hello there, {first_name}!")
-
-say_hello('Jon')
-# Here we have a method called `say_hello` that takes in a single parameter/argument called `first_name`. We passed in `Jon` as the argument, so `Jon` gets saved as `first_name` when we run through the code. We can then interpolate `first_name` into the string that gets printed out.
-```
