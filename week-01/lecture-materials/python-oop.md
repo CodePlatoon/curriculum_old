@@ -57,7 +57,7 @@ class Dog:
         # Below is a multi-line string that is going to print out. Note the specific indentation when you print it out
         print(f"""
 {self.name} is a {self.color} {self.breed}.
-It has with {self.eyes} eyes and {self.legs} legs
+It has {self.eyes} eyes and {self.legs} legs
         """)
 
 # There are two ways of instantiating a Dog
