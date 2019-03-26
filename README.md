@@ -21,7 +21,7 @@ Click [here](https://docs.google.com/document/d/1KgNFbDhihSJv6OGYjFDhESaDJ6ljOyV
 9. Open a pull request, comparing your forked `branch` to the original `master` branch
 
 ## Daily Check-ins
-It is important for you to have a place to talk about how you are feeling and how you feel you are progressing. Every morning before class starts, please fill out this [form](https://goo.gl/forms/WMMd7986vJWDonpi2).
+It is important for you to have a place to talk about how you are feeling and how you feel you are progressing. Every morning before class starts, please fill out this [form](https://goo.gl/forms/iRJbtkyivb2qjxDl1).
 
 ## What should I do if I finish everything on any given day?
 1. Help those around you. Teaching solidifies learning.
@@ -31,7 +31,7 @@ It is important for you to have a place to talk about how you are feeling and ho
 5. [Interview Cake](https://www.interviewcake.com/)
 
 ## Video Links
-Classroom videos/lectures will be recorded and posted to [Vimeo](https://www.vimeo.com/codeplatoon). If you need lecture videos immediately, please bring a USB drive to Jon and he will get you the video.
+Classroom videos/lectures will be recorded and posted to [YouTube](https://www.youtube.com/channel/UCASZ7zW_Egu0T4KG3YEdGfw/videos). If you need lecture videos immediately, please bring a USB drive to Jon and he will get you the video.
 
 ## Student Resources
 Students from previous cohorts have added a list of resources that they found helpful broken down by week and day. Please take a look at [this link](https://docs.google.com/spreadsheets/d/1nX1ylt8AOWVnwZ5v-naN7K2bfhlfZm8TRzepOuXdqWw/edit#gid=0) and add your own for future cohorts!
