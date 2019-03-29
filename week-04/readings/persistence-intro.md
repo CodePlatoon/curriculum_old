@@ -6,7 +6,7 @@ This week we're going to focus on writing programs that save their output by rea
 
 ## Why Use a Database?
 
-Before we just jump into a new technology we should pause and ask ourselves if we have a simpler option available? You'll soon see that combining an RDBMS, SQL and Ruby is no small feat.
+Before we just jump into a new technology we should pause and ask ourselves if we have a simpler option available? You'll soon see that combining an RDBMS, SQL and Python is no small feat.
 
 One option we always have available is reading & writing from a text or CSV file. Let's imagine storing a school's database of students in text files. We could store one file per student, naming each file with the student's school id number:
 
@@ -42,32 +42,28 @@ Each file might contain the student's entire school record:
 
 If the only use case for the school database was retrieving a student's record by their school id, this persistence design might be exactly what we need. In fact the entire lookup program could be written as such:
 
-```ruby
-require 'json'
+```python
+import 'json'
 
-puts "** WELCOME TO THE ACME SCHOOL DATABASE **"
+print("** WELCOME TO THE ACME SCHOOL DATABASE **")
 
-puts "Enter a student id: "
-id = gets.chomp
+id = raw_input('Enter a student id: ')
 
-filename = File.join("data", "#{id[0..3]}-#{id[3..6]}.json")
-raise "No such student" unless File.exists?(filename)
+filename = "data".join("#{id[0..3]}-#{id[3..6]}.json")
 
-student_data = JSON.parse(File.read(filename))
-puts "#{student_data['first_name']} #{student_data['last_name']}"
-puts "Birthdate: #{student_data["birthdate"]}"
+student_data = json.loads(open(filename, 'r'))
+print(f"{student_data['first_name']} {student_data['last_name']}")
+print(f"Birthdate: {student_data["birthdate"]}")
 
-student_data["address"].tap do |address|
-  puts "Mailing Address"
-  puts "\t#{address['line_1']}"
-  puts "\t#{address['city']}, #{address['state']}"
-  puts "\t#{address['zip']}"
-end
+for address in student_data["address"]:
+  print("Mailing Address")
+  print(f"{address['line_1']}")
+  print(f"{address['city']}, {address['state']}")
+  print(f"{address['zip']}")
 
-puts "Classes"
-student_data["classes"].each do |class_name|
-  puts "\t#{class_name}"
-end
+print("Classes")
+for class_name in student_data["classes"]:
+  print(f"{class_name}")
 ```
 
 But consider how we'd have to modify our program to support these additional use cases:
@@ -78,8 +74,7 @@ But consider how we'd have to modify our program to support these additional use
 
 You should be realizing that our persistence approach of one file per student isn't very flexible. It's a great fit for some use cases and cumbersome fit for others. These design pains were felt almost as soon as software developers began to solve real world problems with software. They found a hierarchical, file focused approach to persistence limiting.
 
-
-* You might have also heard of NoSQL databases. These are generally schema-less databases that don't speak SQL. Don't get to thinking one type of database is better than another, there's a time & place for each type of database.
+You might have also heard of NoSQL databases. These are generally schema-less databases that don't speak SQL. Don't get to thinking one type of database is better than another, there's a time & place for each type of database.
 
 ## A Relational Approach
 
@@ -89,7 +84,7 @@ The solution proposed in 1970 by E.F. Codd in his paper ["A Relational Model of 
 
 Translation: We need some flexible persistence mechanism that insulates users (and our code) from exactly how the data is stored.
 
-> Activities of users at terminals and most application programs should remain unaffected when the internal representation of data is changed and even when some aspects of the external representation are changed. Changes in data representation will often be needed as a result of changes in query, update, and report traffic and natural growth in the types of stored information. 
+> Activities of users at terminals and most application programs should remain unaffected when the internal representation of data is changed and even when some aspects of the external representation are changed. Changes in data representation will often be needed as a result of changes in query, update, and report traffic and natural growth in the types of stored information.
 
 > Existing noninferential, formatted data systems provide users with tree-structured files or slightly more general network models of the data. In Section 1, inadequacies of these models are discussed.
 
@@ -151,9 +146,6 @@ SELECT * FROM students LEFT JOIN enrollments ON student.id = student_id WHERE cl
 ```sql
 SELECT count(*) FROM STUDENTS WHERE birthdate >= 2017/01/01 AND birthdate <= 2017/01/30;
 ```
-
-
-
 
 ## Additional RDBMS Benefits
 
