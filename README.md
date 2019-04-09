@@ -21,7 +21,7 @@ Click [here](https://docs.google.com/document/d/1KgNFbDhihSJv6OGYjFDhESaDJ6ljOyV
 9. Open a pull request, comparing your forked `branch` to the original `master` branch
 
 ## Daily Check-ins
-It is important for you to have a place to talk about how you are feeling and how you feel you are progressing. Every morning before class starts, please fill out this [form](https://goo.gl/forms/iRJbtkyivb2qjxDl1).
+It is important for you to have a place to talk about how you are feeling and how you feel you are progressing. Every morning before class starts, please fill out [this form](https://goo.gl/forms/iRJbtkyivb2qjxDl1).
 
 ## What should I do if I finish everything on any given day?
 1. Help those around you. Teaching solidifies learning.
