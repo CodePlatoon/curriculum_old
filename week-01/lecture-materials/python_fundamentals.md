@@ -147,7 +147,7 @@ user = {
 }
 
 # you can also write this same hash as
-# user = dict('name'='Jonathan', 'age'='30')
+# user = dict(name='Jonathan', age=30)
 
 # To access a particular key's value:
 print(user['name'])
