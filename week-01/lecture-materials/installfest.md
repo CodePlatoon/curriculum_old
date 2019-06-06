@@ -10,7 +10,7 @@ We are going to install everything that you will need for this course. Please do
 5. postgres
 6. Python
 
-# Visual Studio Code
+## Visual Studio Code
 * VSCode Settings / Extensions
   * Add these to your settings under Code -> Preferences -> Settings in VSCode:
   ```
