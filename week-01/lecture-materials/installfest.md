@@ -10,6 +10,32 @@ We are going to install everything that you will need for this course. Please do
 5. postgres
 6. Python
 
+# Visual Studio Code
+* VSCode Settings / Extensions
+  * Add these to your settings under Code -> Preferences -> Settings in VSCode:
+  ```
+  {
+    "editor.fontSize": 14,
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDragAndDrop": false
+  }
+  ```
+* Extensions are tools to make your job as a developer easier. Please install these:
+  * Sublime Text Keymap and Settings Importer
+  * Beautify
+  * VSCode Icons
+  * Bracket Pair Colorizer
+  * Path IntelliSense
+  * Preview on web server
+  * Python
 
 ## `code`
 
