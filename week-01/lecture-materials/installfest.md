@@ -3,7 +3,7 @@
 ## What we'll cover
 We are going to install everything that you will need for this course. Please do this in order!
 
-1. `code`
+1. Visual Studio Code & `code`
 2. Understanding the Unix Environment
 3. Homebrew
 4. sqlite3
