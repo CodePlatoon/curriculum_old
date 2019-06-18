@@ -1,3 +1,3 @@
 # Behavioral Question of the Week
 
-Tell me about a time where you took on a leadership role
+Tell me about a time you had to work on a team
