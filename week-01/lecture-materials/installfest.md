@@ -12,20 +12,22 @@ We are going to install everything that you will need for this course. Please do
 
 ## Visual Studio Code
 * VSCode Settings / Extensions
-  * Add these to your settings under Code -> Preferences -> Settings in VSCode:
+  * Make these your settings under Code -> Preferences -> Settings in VSCode:
   ```
   {
     "editor.fontSize": 14,
-    "files.autoSave": "onFocusChange",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderLineHighlight": "gutter",
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
-    "editor.multiCursorModifier": "ctrlCmd",
     "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "onFocusChange",
     "window.zoomLevel": 0,
-    "workbench.startupEditor": "newUntitledFile",
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.iconTheme": "vscode-icons",
-    "explorer.confirmDragAndDrop": false
+    "workbench.startupEditor": "newUntitledFile",
+   
   }
   ```
 * Extensions are tools to make your job as a developer easier. Please install these:
