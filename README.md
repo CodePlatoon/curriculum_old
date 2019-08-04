@@ -1,4 +1,4 @@
-# India Platoon Curriculum
+# Juliet Platoon Curriculum
 
 ## Welcome
 Students, welcome to Code Platoon! Be prepared to push yourself and to work hard towards your new career. We are happy you are here and are here to support you. If you need anything, please don't hesitate to ask. There are many resources available to you on your journey!
@@ -10,7 +10,7 @@ Click [here](https://docs.google.com/document/d/1KgNFbDhihSJv6OGYjFDhESaDJ6ljOyV
 
 ## Submitting Work for Review
 1. Navigate to your desktop from your terminal(`cd ~/desktop`)
-2. Hit the `Fork` icon on the top right to copy the repo to your username instead of `indiaplatoon`
+2. Hit the `Fork` icon on the top right to copy the repo to your username instead of `julietplatoon`
 3. Clone down the repository to your desktop (`git clone REPO_LINK.git`)
 4. Checkout a new branch (`git checkout -b SOLO/PAIR_YOUR_GITHUB_USERNAME`)
 5. Update whatever work you need to
