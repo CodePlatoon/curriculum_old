@@ -27,6 +27,10 @@ We are going to install everything that you will need for this course. Please do
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "newUntitledFile",
+    "[python]": {
+      "editor.insertSpaces": true,
+      "editor.tabSize": 4  
+    },
    
   }
   ```
