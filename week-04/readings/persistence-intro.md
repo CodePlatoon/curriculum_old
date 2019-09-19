@@ -138,7 +138,7 @@ SELECT * FROM students WHERE last_name = 'Garvis';
 * List all the students enrolled in a particular course
 
 ```sql
-SELECT * FROM students LEFT JOIN enrollments ON student.id = student_id WHERE class_id = 4;
+SELECT * FROM students LEFT JOIN enrollments ON students.id = student_id WHERE class_id = 4;
 ```
 
 * Find the number of students whose birthday is in the next month
