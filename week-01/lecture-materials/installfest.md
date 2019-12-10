@@ -41,7 +41,7 @@ We are going to install everything that you will need for this course. Please do
 
 ## Make a Folder for all your code
 
-Using your preferred GUI file manager (usually Finder on Mac and File Explorer on PC), navigate to your Desktop and make a folder that will contain ALL OF YOUR CODE. Let's name it code_platoon.
+Using your preferred GUI file manager (usually Finder on Mac and File Explorer on PC), navigate to your Desktop and make a folder that will contain ALL OF YOUR CODE. Let's name the folder `code_platoon`.
 
 ## Docker
 
@@ -49,7 +49,7 @@ First, make sure you have [Docker Desktop](https://www.docker.com/products/docke
 
 You'll have to sign up for an account. Once you have it up and running, you'll have their whale icon in your menu/task bar.
 
-In VSCode, open your Desktop or code_platoon folder so you can view the contents in the side pane. `control + backtick` will open a command prompt. At the command prompt, enter this command:
+In VSCode, open your `Desktop` or `code_platoon` folder so you can view the contents in the side pane. `control + backtick` will open a command prompt. At the command prompt, enter this command:
 
 ```
 docker pull codeplatoon/base
@@ -59,7 +59,7 @@ This download may take a little while depending on your internet speeds.
 
 Now, at the command line, use `cd` and `ls` to navigate to the `code_platoon` directory you made earlier.
 
-Inside the code_platoon directory, run this command:
+Inside the `code_platoon` directory, run this command:
 
 ```
 Mac:
@@ -126,7 +126,7 @@ If you edited your VSCode settings earlier, the file will autosave. If not, save
 
 Now, exit out of your container prompt by typing in the command `exit` or press `control + d`.
 
-At your host prompt (at the code_platoon directory), enter this command:
+At your host prompt (at the `code_platoon` directory), enter this command:
 
 ```
 Mac:
