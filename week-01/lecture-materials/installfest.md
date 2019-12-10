@@ -61,12 +61,11 @@ Now, at the command line, use `cd` and `ls` to navigate to the `code_platoon` di
 
 Inside the code_platoon directory, run this command:
 
+```
 Mac:
-```
 docker run -it -v $(pwd):/usr/local/src/code_platoon codeplatoon/base
-```
+
 Windows:
-```
 docker run -it -v ${pwd}:/usr/local/src/code_platoon codeplatoon/base
 ```
 
@@ -123,18 +122,30 @@ alias ls='ls $LS_OPTIONS'
 
 ```
 
+If you edited your VSCode settings earlier, the file will autosave. If not, save the file manually.
+
 Now, exit out of your container prompt by typing in the command `exit` or press `control + d`.
 
 At your host prompt (at the code_platoon directory), enter this command:
 
+```
 Mac:
-```
 docker run -it --name codePlatoon -v $(pwd):/usr/local/src/code_platoon -v $(pwd)/.bashrc:/root/.bashrc codeplatoon/base
-```
 
 Windows:
-```
 docker run -it --name codePlatoon -v ${pwd}:/usr/local/src/code_platoon -v ${pwd}/.bashrc:/root/.bashrc codeplatoon/base
 ```
+
+Now, if you `exit` again, you can enter the container with a much shorter command:
+
+```
+docker start -i codePlatoon
+```
+
+You'll be using the above command to start your container for the next few weeks.
+
+## Understanding the Unix Environment
+
+
 
 
