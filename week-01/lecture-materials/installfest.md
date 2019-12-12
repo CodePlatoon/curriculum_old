@@ -124,7 +124,7 @@ alias ls='ls $LS_OPTIONS'
 
 If you edited your VSCode settings earlier, the file will autosave. If not, save the file manually.
 
-Now, exit out of your container prompt by typing in the command `exit` or press `control + d`.
+Now, `exit` out of your container prompt by typing in the command `exit` or press `control + d`.
 
 At your host prompt (at the `code_platoon` directory), enter this command:
 
@@ -146,6 +146,10 @@ You'll be using the above command to start your container for the next few weeks
 
 ## Understanding the Unix Environment
 
+Make sure you are at your container prompt. If you type in this command `git config --global user.name`, you'll get the response `Mona Lisa`. This is because your `.bashrc` file is run every time you start a terminal, or start your container. Edit your `.bashrc` to set your name (not Mona Lisa) and change example@email.com to the email that you use to log in to GitHub.
 
+Even with the file saved, `git config --global user.name` still returns `Mona Lisa`. However, if you `exit` out of the container to your host prompt and start the container again with `docker start -i codePlatoon`, you'll find that `git config --global user.name` is now your name!
+
+Remember: every line in your `.bashrc` is run before your terminal instance starts, but you have to start a new instance to see those new changes.
 
 
