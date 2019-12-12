@@ -90,6 +90,8 @@ git config --global user.email "email@example.com"
 
 # Keep username/password stored in container
 git config --global credential.helper store
+# The below command is more secure, storing in memory rather than on disk. However, you'll need to reenter your credentials each time you restart your container, or after so many seconds (604800 = 1 week)
+# git config --global credential.helper 'cache --timeout=604800'
 
 
 # Jon's colors
@@ -117,7 +119,7 @@ alias ls='ls $LS_OPTIONS'
 # su postgres -c "createuser -s root"
 
 
-# Windows users uncomment the line below for hotloading in React
+# Windows users uncomment the line below to enable hotloading in React
 # export CHOKIDAR_USEPOLLING=true
 
 ```
