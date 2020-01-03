@@ -9,7 +9,6 @@ We are going to install everything that you will need for this course. Please do
 4. sqlite3
 5. postgres
 6. Python
-7. Live Share
 
 ## Visual Studio Code
 * VSCode Settings / Extensions
@@ -43,6 +42,7 @@ We are going to install everything that you will need for this course. Please do
   * Path IntelliSense
   * Preview on web server
   * Python
+  * Live Share
 
 ## `code`
 
