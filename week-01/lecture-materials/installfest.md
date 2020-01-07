@@ -283,4 +283,6 @@ All set. We can launch a new teminal window and verify our setup.
 
 ```sh
 $ bash --version
+$ echo $SHELL
+/usr/local/bin/bash
 ```
