@@ -31,7 +31,7 @@ It is important for you to have a place to talk about how you are feeling and ho
 5. [Interview Cake](https://www.interviewcake.com/)
 
 ## Video Links
-Classroom videos/lectures will be recorded and posted to [YouTube](https://www.youtube.com/channel/UCASZ7zW_Egu0T4KG3YEdGfw/videos). If you need lecture videos immediately, please bring a USB drive to Jon and he will get you the video.
+Classroom videos/lectures will be recorded and posted to [YouTube](https://www.youtube.com/channel/UCASZ7zW_Egu0T4KG3YEdGfw/videos). If you need lecture videos immediately, please bring a USB drive to Tom or Noa and he will get you the video.
 
 ## Student Resources
 Students from previous cohorts have added a list of resources that they found helpful broken down by week and day. Please take a look at [this link](https://docs.google.com/spreadsheets/d/1nX1ylt8AOWVnwZ5v-naN7K2bfhlfZm8TRzepOuXdqWw/edit#gid=0) and add your own for future cohorts!
