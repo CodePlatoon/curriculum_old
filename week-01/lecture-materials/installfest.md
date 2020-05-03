@@ -10,40 +10,6 @@ We are going to install everything that you will need for this course. Please do
 5. postgres
 6. Python
 
-## Visual Studio Code
-* VSCode Settings / Extensions
-  * Make these your settings under Code -> Preferences -> Settings in VSCode:
-  ```
-  {
-    "editor.fontSize": 14,
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.renderLineHighlight": "gutter",
-    "editor.tabSize": 2,
-    "editor.wordWrap": "on",
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "files.autoSave": "onFocusChange",
-    "window.zoomLevel": 0,
-    "workbench.colorTheme": "Visual Studio Dark",
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.startupEditor": "newUntitledFile",
-    "[python]": {
-      "editor.insertSpaces": true,
-      "editor.tabSize": 4
-    },
-
-  }
-  ```
-* Extensions are tools to make your job as a developer easier. Please install these:
-  * Sublime Text Keymap and Settings Importer
-  * Beautify
-  * VSCode Icons
-  * Bracket Pair Colorizer
-  * Path IntelliSense
-  * Preview on web server
-  * Python
-  * Live Share
-
 ## `code`
 
 This is a command that allows you to open a file or directory in your VSCode text editor from the command line. After installing VSCode from the website and putting it in your applications folder, please follow these instructions up to and including `Restart the terminal`: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
