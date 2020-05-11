@@ -12,7 +12,7 @@
 class Dog:
     pass
 
-dog = Dog # this is how we instantiate our Dog instance
+dog = Dog() # this is how we instantiate our Dog instance
 ```
 - If we save this and run the file, we don't get any errors. That being said, we also aren't doing anything with this class. Let's give it some class variables:
 ```python
