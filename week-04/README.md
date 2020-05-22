@@ -3,8 +3,8 @@
 - ### Database Schema Design
 
 # Why is it important?
-- ### SQL is the most common used database language and understanding basic SQL commands is beneficial to your job since it's language agnostic and is in high demand.
-- ### Database design will help you efficienctly manage stored data and enable you to scale your database without having to refactor your database schema.
+- ### SQL is the most commonly used database language and understanding basic SQL commands is beneficial to your job since it's language agnostic and is in high demand.
+- ### Database design will help you efficienctly manage stored data and enable you to scale your database without having to refactor your database schema often.
 
 # What you'll be able to accomplish after this topic?
 1. ### Create a database via the command line
