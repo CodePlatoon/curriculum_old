@@ -8,12 +8,12 @@
 
 # What you'll be able to accomplish after this topic?
 1. ### Create a database via the command line
-2. ### Create database tables and columns
-3. ### Create associations between different tables
-4. ### Create, Read, Update, & Delete data from a database
-5. ### Query data from a database
+2. ### Create database tables and columns using the SQL
+3. ### Create associations between different tables using the SQL
+4. ### Create, Read, Update, & Delete data from a database using the SQL
+5. ### Query data from a database using the SQL
 6. ### Design database schema for applications
-7. ### Modify database schema
+7. ### Modify database schema using the SQL
 8. ### Use Python to execute SQL Commands
 
 # Behavioral Question of the Week
