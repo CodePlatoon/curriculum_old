@@ -6,12 +6,12 @@
 # Why is it important?
 - ### React is a JavaScript library you will use in web development to make elements of your interface that users can interact with—not just view—which is a requirement for most applications and projects you will work on. 
 - ### For real-world applications, which are much larger and more complex than these challenges, JS is necessary to reduce repetative lines of code; the JS expression destructuring assignment syntax will also be helpful for "cleaning-up" your code.
-- ### Promises is the JS concept that allows us to make calls to web services. Understanding this concept is necessary for using fetch to bring dynamic data from an external source into an app you're building.  
+- ### Promises is a JS concept that allows us to make calls to web services. Understanding this concept is necessary for using fetch to bring dynamic data from an external source into an app you're building.  
 
 # What you'll be able to accomplish after this topic:
 1. ### Write object oriented programs in JS (classes, constructors, methods, instance variables) 
 2. ### Create a default React app
-3. ### Use both class-based components and functional components in React apps and translate between the two types of components
+3. ### Create and use both class-based components and functional components in React apps and translate between the two types of components
 4. ### Understand and utilize the React concepts of props and state 
 5. ### Use JS to organize your code efficiently 
 6. ### Understand the concept of destructuring in JS and use it to declare new variables 
