@@ -12,15 +12,15 @@ We are going to install everything that you will need for this course. Please do
 
 ## VSCode with `code`
 
-During installing, VSCode will add itself to your system's PATH envirnmental variable. This will allow you to open VSCode from the terminal by simply typing `code`. You can also open files in VSCode from the terminal by typing `code SOME_FILENAME`.
+During install, VSCode will add itself to your system's PATH envirnmental variable. This will allow you to open VSCode from the terminal by simply typing `code`. You can also open files in VSCode from the terminal by typing `code SOME_FILENAME`.
 
 
 
-## apt-get
+## APT
 [Advanced Package Tool](https://en.wikipedia.org/wiki/APT_(software)), or APT, is a free-software user interface that works with core libraries to handle the installation, versioning and removal of software on Debian, Ubuntu, and related Linux distributions
 
 ### Update and Upgrading
-The `update` command in apt-get will resynchronize your package index with their sources. This goes out to each software's source to check what updates are available.
+The `update` command in apt will resynchronize your package index with their sources. This goes out to each software's source to check what updates are available.
 The update require's elevated permissions. Therefore you'll need to run the command using `sudo` (super user do). The command will require your user password. It's the same password you used to login to your system.
 ```sh
 $ sudo apt-get update -y
@@ -50,7 +50,7 @@ Enter your linux username and password. The interactive output should look like 
 Enter name of role to add: <linux-username>
 Shall the new role be a superuser? (y/n) y
 ```
-Create a default database for your new postgres roll
+Create a default database for your new postgres roll. This database needs to match your username.
 ```sh
 $ sudo -u postgres createdb <linux-username>
 ```
@@ -58,16 +58,15 @@ Set your role's password by entering the postgres command line interface
 ```sh
 $ psql
 ```
-with this command line enter `\password`. This will asked you to set a password followed by a confirmation. Exit the command line using `\q`
+with this command line enter `\password`. You will be asked you to set a password followed by a confirmation. Exit the command line using `\q`
 
 ## Python
-Python comes built in with Ubuntu, but it's not necessarly the same version we'll be using. 
-
-install python3.7
+Python comes built in with Ubuntu, but it's not necessarly the same version we'll be using. We'll be using python3.7.
 ```sh
 $ sudo apt-get install -y python3.7
 $ sudo apt-get install -y python3.7-dev
 $ sudo apt-get install -y python3.7-venv
+$ sudo apt-get install -y python3-pip
 ```
 
 ## Node Version Manager (NVM)
@@ -81,12 +80,12 @@ $ nvm --version
 ```
 you should see a printout with a verison number
 
-###Node Package Manager (NPM)
-next we'll use NVM to install NPM veison 12
+### Node
+next we'll use NVM to install Node veison 12
 ```sh
 $ nvm install 12
 ```
-## Install `git` using Homebrew
+## GIT
 
 ```sh
 $ sudo apt-get install git -y
@@ -121,6 +120,11 @@ You should see that your username, email, gitignore, and editor are all listed.
 
 ## Updating your bash profile
 ### .bash_profile
+We're going to set up your bash_profile which will run every time you open a new terminal. Think of it as commands run on terminal startup. And we'll use VSCode to set this up. From the terminal type:
+```sh
+$ code ~/.bash_profile
+```
+VSCode should open with the .bash_profile as the current document. If you didn't have a bash_profile before, it'll be empty. Paste the below code into your profile. If your profile wasn't empty, go through each line to ensure nothing conflicts with your current setup
 ```sh
 alias python='python3.7'
 alias pip='pip3'
@@ -138,8 +142,30 @@ export PROMPT_COMMAND='echo -ne "\033]0;${PWD##*/}\007"'
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 ```
+The first two aliases are used to deconflict python versions on your system. Ubuntu comes with python 2.7 installed. And you may have other versions (such as 3.5) installed also. We'll be using python 3.7, and the alias makes it so you can just type **python** to execute the "correct" version rather than typing **python3.7** every time.
+
+The next section of lines are for git. It allows git to modify the command line and show what git branch you're working out of. You'll see this when you start working with git repositories.
+
+The final block of lines is to colorize your terminal lines. It just makes things look better and easier to read.
+
 ### .bashrc
+We're going to source your bash_profile in the bashrc file. This will ensure the bash_profile is run everytime a new terminal window is opened. From the terminal, type:
+```sh
+$ code ~/.bashrc
+```
+within VSCode add the source line to the bottom of the file
 ```sh
 ...
 source ~/.bash_profile
 ```
+
+## PIP
+PIP is python's package manager. Since we'll be using python3.7 we'll need to modify which python version pip executes when we call it. From the terminal type:
+```sh
+$ code /usr/bin/pip3
+```
+Modify the first line so that it reads the same as below
+```sh
+#!/usr/bin/python3.7
+```
+Save the file. A pop will tell you the save failed. Click **Retry as Sudo...**
