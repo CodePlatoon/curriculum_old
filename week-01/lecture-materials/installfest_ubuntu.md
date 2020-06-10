@@ -67,6 +67,7 @@ $ sudo apt-get install -y python3.7
 $ sudo apt-get install -y python3.7-dev
 $ sudo apt-get install -y python3.7-venv
 $ sudo apt-get install -y python3-pip
+$ sudo apt-get install -y python3-setuptools
 ```
 
 ## Node Version Manager (NVM)
