@@ -5,7 +5,7 @@
 
 # Why is it important?
 - ### Every application relys on persistant data.
-- ### Data is everywhere and you'll know how to create, read, update, and delete data from a persistant data source.
+- ### Data is everywhere and you'll need to know how to create, read, update, and delete data from a persistant data source.
 - ### CSV files are the most commonly used type of data persistant source for business poeple (think excel)
 
 # What you'll be able to accomplish after this topic?
