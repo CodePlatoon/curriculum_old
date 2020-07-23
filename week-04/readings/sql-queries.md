@@ -53,7 +53,7 @@ Querying just these columns might be the query you'd use when building an autoco
 
 ### Aggregate Functions
 
-Besides selecting particular columns, you can select aggregate values, computing from the raw values in the table. Commonly use aggregate functions include `MIN`, `MAX`, `COUNT`, `SUM` and `AVERAGE`.
+Besides selecting particular columns, you can select aggregate values, computing from the raw values in the table. Commonly use aggregate functions include `MIN`, `MAX`, `COUNT`, `SUM` and `AVG`.
 
 Here's an example of find the worst grade from the enrollments table:
 

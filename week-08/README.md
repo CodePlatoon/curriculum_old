@@ -5,6 +5,7 @@
 
 # Why is it important?
 - ### React is a JavaScript library you will use in web development to make elements of your interface that users can interact with—not just view—which is a requirement for most applications and projects you will work on. 
+- ### React is the most popular and most in-demend front-end framework today and will continue to be since it was developed and supported by Facebook.
 - ### For real-world applications, which are much larger and more complex than these challenges, JS is necessary to reduce repetative lines of code; the JS expression destructuring assignment syntax will also be helpful for "cleaning-up" your code.
 - ### Promises is a JS concept that allows us to make calls to web services. Understanding this concept is necessary for using fetch to bring dynamic data from an external source into an app you're building.  
 
