@@ -2,6 +2,7 @@
 - ### HTML (Hypertext Markup Language)   
 - ### CSS (Cascading Style Sheets)
 - ### Interacting with web pages using JavaScript
+- ### HTTP Server & the `fetch()` API
 
 # Why is it important?
 - ### HTML is the foundation of all web pages; without HTML, you wouldn’t be able to organize text or add images or videos to your web pages and thus it is essential for any job in web development. 
