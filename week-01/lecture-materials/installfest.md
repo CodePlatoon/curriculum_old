@@ -173,7 +173,7 @@ export NVM_DIR="$HOME/.nvm"
 ```
 From there, reload the bash profile: `source ~/.bash_profile`.
 
-Next, install the current version of [Node](https://nodejs.org/en/about/releases/). As of 5/29/19, it's version 12:
+Next, install the current version of [Node](https://nodejs.org/en/about/releases/). As of 10/05/20, it's version 12:
 ```sh
 $ nvm install 12
 ```
