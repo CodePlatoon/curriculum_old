@@ -1,4 +1,4 @@
-# Mike Platoon Curriculum
+# November Platoon Curriculum
 
 ## Welcome
 Students, welcome to Code Platoon! Be prepared to push yourself and to work hard towards your new career. We are happy you are here and are here to support you. If you need anything, please don't hesitate to ask. There are many resources available to you on your journey!
