@@ -105,10 +105,10 @@ Ordering your query results is easy with `ORDER BY`:
 
 ```sql
 -- Find > 3 credit classes ordered by their name in descending alpha order
-SELECT * FROM classes WHERE name credits > 3 ORDER BY name DESC;
+SELECT * FROM classes WHERE credits > 3 ORDER BY name DESC;
 
 -- Find > 3 credit classes ordered by the number or credits, ascending
-SELECT * FROM classes WHERE name credits > 3 ORDER BY credits ASC;
+SELECT * FROM classes WHERE credits > 3 ORDER BY credits ASC;
 ```
 
 
