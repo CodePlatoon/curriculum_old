@@ -10,6 +10,16 @@ We are going to install everything that you will need for this course. Please do
 5. postgres
 6. Python
 
+## Install XCode Commands
+
+Run the following command in the terminal.
+
+```sh
+$ xcode-select --install
+```
+This installs the Command Line Tools package via the Terminal application. This is to ensure you have it installed correctly and in the correct path.
+
+
 ## `code`
 
 This is a command that allows you to open a file or directory in your VSCode text editor from the command line. After installing VSCode from the website and putting it in your applications folder, please follow these instructions up to and including `Restart the terminal`: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
