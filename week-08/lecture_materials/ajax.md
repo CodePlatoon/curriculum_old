@@ -1,8 +1,5 @@
 AJAX stands for "**A**synchronous **J**avascript **A**nd **X**ML".
 
-
-# Where AJAX Fails
-
 There's a concept of `promises` in Javascript. You make a request from a web page using AJAX and if it's successful, it does something. If it is not successful, we do something else. Here's a basic implementation of AJAX:
 
 ```javascript
@@ -72,4 +69,4 @@ $.ajax('https://www.facebook.com/login', {
 })
 ```
 
-As you can begin to see with the AJAX calls above, it's beginning to form what's called the `JS Christmas Tree of Doom` or `Javascript Hell` or `Callback Hell`. It's very difficult to read and isn't read top to bottom. Instead, it's read from outside to inside. It's like a Quintin Tarantino movie. This, however, is how the web used to be written. The newer way to make HTTP request is via the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+As you can begin to see with the AJAX calls above, it's beginning to form what's called the `JS Christmas Tree of Doom` or `Javascript Hell` or `Callback Hell`. It's very difficult to read and isn't read top to bottom. Instead, it's read from outside to inside. It's like a Quintin Tarantino movie. This, however, is how the web used to be written. The newer way to make HTTP requests is via the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
