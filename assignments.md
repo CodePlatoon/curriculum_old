@@ -36,17 +36,19 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 - [Balanced Brackets](https://github.com/oscarplatoon/balanced-parentheses) in JS/Python
 
 # Monday, May 31, 2021
+- [App Users I](https://github.com/oscarplatoon/app-users-I) in Python (Object Orientation)
 - [Guessing Game](https://github.com/oscarplatoon/guessing-game) in Python (Object Orientation)
 - [Boggle](https://github.com/oscarplatoon/boggle) in Python (Object Orientation)
 - Stretch challenge: [Boggle Part 2](https://github.com/oscarplatoon/boggle-2) (Object Orientation)
 
 # Tuesday, June 01, 2021
+- [App Users II](https://github.com/oscarplatoon/app-users-II) in Python (Object Orientation)
 - [School Interface One](https://github.com/oscarplatoon/school-interface-one)
 - [Word Guess CSV](https://github.com/oscarplatoon/word-guess)
 
 # Wednesday, June 02, 2021
+- [App Users III](https://github.com/oscarplatoon/app-users-III) in Python (Object Orientation)
 - [School Interface Two](https://github.com/oscarplatoon/school-interface-two)
-- [Bowling](https://github.com/oscarplatoon/bowling)
 - Read [Functional vs. OOP](https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
 - Study up on object orientation
 
@@ -58,6 +60,7 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 # Friday, June 04, 2021
 - [School Interface Four](https://github.com/oscarplatoon/school-interface-four)
 - [Budget](https://github.com/oscarplatoon/budget)
+- [Bowling](https://github.com/oscarplatoon/bowling)
 
 # Monday, June 07, 2021
 - [Caesar Cipher](https://github.com/oscarplatoon/caesar-cipher) in JS/Python
