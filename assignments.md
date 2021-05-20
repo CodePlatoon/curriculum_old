@@ -70,7 +70,6 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 # Tuesday, June 08, 2021
 - [Data Structures](https://github.com/oscarplatoon/data-structures)
 - [Bank Accounts](https://github.com/oscarplatoon/bank-accounts)
-- Is it better to work in groups or on your own? Solve [Sudoku](https://github.com/oscarplatoon/Sudoku) and find out!
 
 # Wednesday, June 09, 2021
 - [Recursion](https://github.com/oscarplatoon/recursion)
@@ -84,7 +83,7 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 - [Big O Problems 2](https://github.com/oscarplatoon/big-o-II)
 
 # Friday, June 11, 2021
-- Need to add challenges here!
+- Group Project: [Sudoku](https://github.com/oscarplatoon/Sudoku)
 
 # Monday, June 14, 2021
 - [Front End Intro](https://github.com/oscarplatoon/front-end-intro)
