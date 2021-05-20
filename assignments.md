@@ -42,13 +42,13 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 
 # Tuesday, June 01, 2021
 - [School Interface One](https://github.com/oscarplatoon/school-interface-one)
-- Read [Functional vs. OOP](https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
-- Study up on object orientation
-- [Bowling](https://github.com/oscarplatoon/bowling)
+- [Word Guess CSV](https://github.com/oscarplatoon/word-guess)
 
 # Wednesday, June 02, 2021
 - [School Interface Two](https://github.com/oscarplatoon/school-interface-two)
-- [Budget](https://github.com/oscarplatoon/budget)
+- [Bowling](https://github.com/oscarplatoon/bowling)
+- Read [Functional vs. OOP](https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
+- Study up on object orientation
 
 # Thursday, June 03, 2021
 - [School Interface Three](https://github.com/oscarplatoon/school-interface-three)
@@ -57,6 +57,7 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 
 # Friday, June 04, 2021
 - [School Interface Four](https://github.com/oscarplatoon/school-interface-four)
+- [Budget](https://github.com/oscarplatoon/budget)
 
 # Monday, June 07, 2021
 - [Caesar Cipher](https://github.com/oscarplatoon/caesar-cipher) in JS/Python
@@ -64,7 +65,9 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 - [Bubble Sort](https://github.com/oscarplatoon/bubble-sort) in JS/python
 
 # Tuesday, June 08, 2021
-- [Word Guess CSV](https://github.com/oscarplatoon/word-guess)
+- [Data Structures](https://github.com/oscarplatoon/data-structures)
+- [Bank Accounts](https://github.com/oscarplatoon/bank-accounts)
+- Is it better to work in groups or on your own? Solve [Sudoku](https://github.com/oscarplatoon/Sudoku) and find out!
 
 # Wednesday, June 09, 2021
 - [Recursion](https://github.com/oscarplatoon/recursion)
@@ -76,12 +79,9 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 # Thursday, June 10, 2021
 - [Big O Problems 1](https://github.com/oscarplatoon/big-o)
 - [Big O Problems 2](https://github.com/oscarplatoon/big-o-II)
-  
 
 # Friday, June 11, 2021
-- [Data Structures](https://github.com/oscarplatoon/data-structures)
-- [Bank Accounts](https://github.com/oscarplatoon/bank-accounts)
-- Is it better to work in groups or on your own? Solve [Sudoku](https://github.com/oscarplatoon/Sudoku) and find out!
+- Need to add challenges here!
 
 # Monday, June 14, 2021
 - [Front End Intro](https://github.com/oscarplatoon/front-end-intro)
@@ -235,8 +235,8 @@ For today's challenge, you will create a Javascript module that calls out to the
 - Complete the lesson on your own
 
 # Tuesday, August 03, 2021
-- [Rock, Scissors, Paper](https://github.com/oscarplatoon/rock-scissors-paper)
+- [Todo Lists](https://github.com/oscarplatoon/to-do-lists)
 
 # Wednesday, August 04, 2021
-- [Todo Lists](https://github.com/oscarplatoon/to-do-lists)
+- [Rock, Scissors, Paper](https://github.com/oscarplatoon/rock-scissors-paper)
 
