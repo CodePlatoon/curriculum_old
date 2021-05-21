@@ -40,7 +40,7 @@
 ```
 
 - Use single quotes when you are not interpolating, double quotes when you are interpolating
-- Interpolation is when you substitute a variable into a string. In Python 3, we have the ability to add `f` to the start of a string and you can directly interpolate with the hash tags between the variable. `f` stands for "format"
+- Interpolation is when you substitute a variable into a string. In Python 3, we have the ability to add `f` to the start of a string and you can directly interpolate with curly braces around the variable. `f` stands for "format"
 
 ```python
 first_name = 'Jon'
