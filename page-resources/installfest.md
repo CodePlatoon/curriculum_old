@@ -183,9 +183,9 @@ export NVM_DIR="$HOME/.nvm"
 ```
 From there, reload the bash profile: `source ~/.bash_profile`.
 
-Next, install the current version of [Node](https://nodejs.org/en/about/releases/). As of 02/01/21, it's version 15:
+Next, install the current version of [Node](https://nodejs.org/en/about/releases/). As of 05/23/21, it's version 16:
 ```sh
-$ nvm install 15
+$ nvm install 16
 ```
 
 ## Install `git` using Homebrew
