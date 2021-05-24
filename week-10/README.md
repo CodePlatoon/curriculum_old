@@ -1,22 +1,22 @@
 # Weekly Topics:
-- ### Connecting our Django API to our React frontend
-- ### AWS Certified Cloud Practitioner Certification
-- ### Individual projects
-- ### Assessment #4
+- Fetch and JavaScript promises (Introduced in Week 5)
+- React Hooks and Component Lifecycles
+- Service Oriented Architecture (SOA) and Django as an API
+- Django as an API using Django REST Framework
+- Heroku for app deployment
 
 # Why is it important?
-- ### Separating our frontend and backend allows for elegant code organization and easy scalability, allowing us to work on the frontend or backend without having to modify the other.
-- ### Amazon Web Services (AWS) is a leading cloud platform, hosting a large portion of the internet.
-- ### The AWS Certified Cloud Practitioner examination will give you official certification if passed, allowing you to understand the AWS cloud more fully and pave the way for additional AWS certifications.
+- Promises is the JS concept that allows us to make calls to web services. Understanding this concept is necessary for using fetch to bring dynamic data from an external source into an app you're building.
+- Component lifecycles allow you to hook into a React class component at a particular stage, which has various effects. As a developer, you'll want certain important requests, such as calling out to you API, to happen at a certain stage and you'll use lifecycle methods to do so.
+- React Hooks allow us to achieve a similar effect to lifecycle methods in functional components; this will become more important to apps you build as React moves away from class components.
+- Real-world applications are often too large to be built entirely in Django, so you'll need to be able to create and handle applications which use Django as the "back-end" to read/write from your database and ReactJS for all the "front-end" logic.
+- Once development is complete, you'll want to deploy apps so that they are available on a public server, not just your local device, and Heroku is a free and easy way to do this.
 
 # What you'll be able to accomplish after this topic:
-1. ### Access Django backends through React frontends to create a full-fledged web application.
-2. ### Study and understand more advanced AWS cloud topics.
-3. ### More practice deploying web applications to Heroku.
-4. ### Have a better understanding of the inner workings of full web apps and build them more efficiently.
-
-# Individual Project:
-### The individual project will be your last assessment of the course, assessment #5. It'll push your creativity and technical skills, preparing you for your group capstone project, and for your professional life outside of the cohort.
-### You will be required to write a full-stack web app, including nested CRUD, routing, testing, and at least 2 3rd party APIs. Here are the full requirements: [Personal Projects - Assessment 5 Rubric](https://docs.google.com/spreadsheets/d/1zU9ZkwPn5aWxIuC7NJrxr7fBNvUwjQYFm6hZje-_cZE/edit#gid=917997820)
-### For inspiration, take a look at this compiled list of public 3rd party APIs: [Github list of 3rd Party APIs](https://github.com/public-apis/public-apis) & [API & React Library Google Sheet](https://docs.google.com/spreadsheets/d/1G3Mu5WBk28_SYQsmOaYWIn6C4Wk21SOSGKrvnJstN1I/edit?usp=sharing)
-### Additionally, here are some ideas to get you started: [Previous Student's Personal Projects](https://docs.google.com/spreadsheets/d/1OPSWu-4uY4AA0Xxw8-UGbBw51ATVdDKegD-qCzlglUk/)
+1. Understand the concept of promises in JS and how they allow us to make calls to web services
+2. Clearly express the history of the web and why we used, but no longer use, AJAX
+3. Use fetch to get asynchronous data from external sources and bring it into a React app
+4. Use the lifecycle method componentDidMount() to connect to your API from a React class component
+5. Use the React hook useEffect() to connect to your API from a React functional component
+6. Create a Django API that returns JSON to be used in ReactJS
+7. Deploy apps to Heroku

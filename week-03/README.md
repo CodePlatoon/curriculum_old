@@ -1,16 +1,17 @@
-# Weekly Topic
-- ### OOP Continued
-- ### Persistant Data
-- ### Interacting with a CSV file
+# Weekly Topics:
+- Recursion
+- Regex
+- Python packages & Javascript libraries
+- Assessment #2 at end of the week!
 
 # Why is it important?
-- ### Every application relys on persistant data.
-- ### Data is everywhere and you'll need to know how to create, read, update, and delete data from a persistant data source.
-- ### CSV files are the most commonly used type of data persistant source for business poeple (think excel)
+- Modules/Packages are essential to software development since it allows you to perform specific tasks without having to reinvent the wheel or solve a problem from scratch
+- Recursion is important because it often allows a breathtakingly simple algorithmic solution to certain problems that would otherwise be practically unobtainable with an iterative algorithm.
+- Understanding the basics of regex to help solve technical problems when other approaches are more cumbersome
 
 # What you'll be able to accomplish after this topic?
-1. ### Utilize OOP Inheritance to extend the usage of your Objects
-2. ### Create, Read, Write, and Delete from a CSV file
-3. ### Create associations between different tables using the SQL
-4. ### Understand basic data structures
-5. ### Know how to calculate Big O
+1. Use modules/packages to help you execute your program more effectively
+2. Ability to use Recursions to solve challenges
+3. Use regex to solve challenges
+4. Understand basic data structures
+5. Know how to calculate Big O

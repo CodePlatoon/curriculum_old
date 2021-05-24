@@ -1,18 +1,19 @@
-# Weekly Topic
-- ### Object Orientation Programming (OOP)
-- ### Recursion
-- ### Regex
-- ### Python packages & Javascript libraries
+# Weekly Topics:
+- Object Orientation Programming (OOP)
+- Persistent Data
+- Interacting with a CSV file
+- Assessment #1 at end of the week!
 
 # Why is it important?
-- ### OOP is a programming paradigm that provides a means of structuring programs so that properties and behaviors are bundled into individual objects
-- ### Understanding OOP is important to know how to structure and break down problems & is used a lot in Python
-- ### Recursion is important because it often allows a breathtakingly simple algorithmic solution to certain problems that would otherwise be practically unobtainable with an iterative algorithm.
-- ### Understanding the basics of regex to help solve technical problems when other approches are more cumbersome
-- ### Modules/Packages are essentail to software development since it allows you to perform specific tasks without having to reinvent the wheel or solve a problem from scratch
+- OOP is a programming paradigm that provides a means of structuring programs so that properties and behaviors are bundled into individual objects
+- Understanding OOP is important to know how to structure and break down problems & is used a lot in Python
+- Every application relies on persistent data.
+- Data is everywhere and you'll need to know how to create, read, update, and delete data from a persistent data source.
+- CSV files are the most commonly used type of data persistent source for business people (think excel)
 
-# What you'll be able to accomplish after this topic
-1. ### Create Objects using OOP
-2. ### Ability to use Recursions to solve challenges
-3. ### Use regex to solve challenges
-4. ### Use modules/packages to help you execute your program more effectively
+# What you'll be able to accomplish after this topic:
+1. Create Objects using OOP
+2. Utilize OOP Inheritance to extend the usage of your Objects
+3. Create, Read, Write, and Delete from a CSV file
+
+

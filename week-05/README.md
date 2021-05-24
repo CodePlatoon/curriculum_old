@@ -1,21 +1,21 @@
 # Weekly Topics:
-- ### HTML (Hypertext Markup Language)   
-- ### CSS (Cascading Style Sheets)
-- ### Interacting with web pages using JavaScript
-- ### HTTP Server & the `fetch()` API
+- SQL (Structured Query Language)
+- Database Schema Design
+- Assessment #3 at end of the week!
 
 # Why is it important?
-- ### HTML is the foundation of all web pages; without HTML, you wouldn’t be able to organize text or add images or videos to your web pages and thus it is essential for any job in web development. 
-- ### CSS describes how HTML elements are to be displayed, determining the layout, font, color, and any other aesthetic choices for your web pages and thus is key in determining how users will interact with your pages and important knowledge for work as a web developer. 
-- ### Javascript is the primary language of the web and allows us to determine the behavior of web pages by accessing and modifying HTML and CSS elements. Most web pages are designed to allow the user to interact with the site and this is implemented by programmers using JS. 
+- SQL is the most commonly used database language and understanding basic SQL commands is beneficial to your job since it's language agnostic and is in high demand.
+- Database design will help you efficiently manage stored data and enable you to scale your database without having to refactor your database schema often.
 
-# What you'll be able to accomplish after this topic:
-1. ### Design and build static web pages using HTML
-2. ### Determine the exact layout and style of web pages using CSS 
-3. ### Use JS to access individual elements of web pages
-4. ### Understand and modify web pages using Chrome Developer Tools to interact with the Document Object Model (DOM)
-5. ### Design and build web pages that respond to user's behavior by loading JS in HTML
-6. ### Use Asynchronous JS and the Fetch API to get data from and post data to web pages
+# What you'll be able to accomplish after this topic?
+1. Create a database via the command line
+2. Create database tables and columns using the SQL
+3. Create associations between different tables using the SQL
+4. Create, Read, Update, & Delete data from a database using the SQL
+5. Query data from a database using the SQL
+6. Design database schema for applications
+7. Modify database schema using the SQL
+8. Use Python to execute SQL Commands
 
-# Behavioral Question of the Week
-Tell me about a time you had to work on a team
+# Behavioral Question of the Week:
+- "Tell me about a time you had to work on a team"
