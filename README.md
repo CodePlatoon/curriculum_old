@@ -30,7 +30,7 @@ Your questions should be pointed (i.e., not "Can someone help me?"), show that y
 9. Open a pull request, comparing your forked `branch` to the original `master` branch
 
 ## Daily Check-ins
-It is important for you to have a place to talk about how you are feeling and how you feel you are progressing. Every morning before class starts, please fill out [this form](https://forms.gle/Mj3WUQih2Cf4Hy4x5).
+It is important for you to have a place to talk about how you are feeling and how you feel you are progressing. Every morning before class starts, please fill out [this form](https://forms.gle/6DE7RdyHPmrBSpqu7).
 
 ## What should I do if I finish everything on any given day?
 1. Help those around you. Teaching solidifies learning.
