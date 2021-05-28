@@ -37,47 +37,47 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 
 # Monday, May 31, 2021
 - [Guessing Game](https://github.com/oscarplatoon/guessing-game) in Python (Object Orientation)
+- [Caesar Cipher](https://github.com/oscarplatoon/caesar-cipher) in JS/Python
 
 # Tuesday, June 01, 2021
-- [App Users I](https://github.com/oscarplatoon/app-users-I) in Python (Object Orientation)
 - [School Interface One](https://github.com/oscarplatoon/school-interface-one)
 - [Word Guess CSV](https://github.com/oscarplatoon/word-guess)
+- [Pig Latin](https://github.com/oscarplatoon/pig-latin) in JS/Python
 
 # Wednesday, June 02, 2021
-- [App Users II](https://github.com/oscarplatoon/app-users-II) in Python (Object Orientation)
+- Read [Functional vs. OOP](https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
 - [School Interface Two](https://github.com/oscarplatoon/school-interface-two)
 - [Boggle](https://github.com/oscarplatoon/boggle) in Python (Object Orientation)
 - Stretch challenge: [Boggle Part 2](https://github.com/oscarplatoon/boggle-2) (Object Orientation)
-- Read [Functional vs. OOP](https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
+- [Bubble Sort](https://github.com/oscarplatoon/bubble-sort) in JS/python
 
 # Thursday, June 03, 2021
-- [App Users III](https://github.com/oscarplatoon/app-users-III) in Python (Object Orientation)
 - [School Interface Three](https://github.com/oscarplatoon/school-interface-three)
 - [Apple Trees](https://github.com/oscarplatoon/apple-trees)
-- [Ice Cream and Freezers](https://github.com/oscarplatoon/ice-cream-and-freezers)
+- [Stock Picker](https://github.com/oscarplatoon/stockpicker) in JS/Python
 
 # Friday, June 04, 2021
 - [School Interface Four](https://github.com/oscarplatoon/school-interface-four)
 - [Budget](https://github.com/oscarplatoon/budget)
-- [Bowling](https://github.com/oscarplatoon/bowling)
 
 # Monday, June 07, 2021
-- [Caesar Cipher](https://github.com/oscarplatoon/caesar-cipher) in JS/Python
-- [Pig Latin](https://github.com/oscarplatoon/pig-latin) in JS/Python
-- [Bubble Sort](https://github.com/oscarplatoon/bubble-sort) in JS/python
+- [App Users I](https://github.com/oscarplatoon/app-users-I) in Python (Object Orientation)
+- [Bowling](https://github.com/oscarplatoon/bowling)
 
 # Tuesday, June 08, 2021
+- [App Users II](https://github.com/oscarplatoon/app-users-II) in Python (Object Orientation)
 - [Data Structures](https://github.com/oscarplatoon/data-structures)
 - [Bank Accounts](https://github.com/oscarplatoon/bank-accounts)
 
 # Wednesday, June 09, 2021
+- [App Users III](https://github.com/oscarplatoon/app-users-III) in Python (Object Orientation)
 - [Recursion](https://github.com/oscarplatoon/recursion)
 - [Binary Search](https://github.com/oscarplatoon/binary-search) in JS/Python
 - [RegexOne](https://regexone.com/python)
 - [Phone Numbers](https://github.com/oscarplatoon/validate-phone) in Python Regular Expressions
-- [Stock Picker](https://github.com/oscarplatoon/stockpicker) in JS/Python
 
 # Thursday, June 10, 2021
+- [Ice Cream and Freezers](https://github.com/oscarplatoon/ice-cream-and-freezers)
 - [Big O Problems 1](https://github.com/oscarplatoon/big-o)
 - [Big O Problems 2](https://github.com/oscarplatoon/big-o-II)
 
