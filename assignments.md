@@ -61,8 +61,9 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 - [Budget](https://github.com/oscarplatoon/budget)
 
 # Monday, June 07, 2021
-- [App Users I](https://github.com/oscarplatoon/app-users-I) in Python (Object Orientation)
-- [Bowling](https://github.com/oscarplatoon/bowling)
+- [App Users I](https://github.com/oscarplatoon/app-users-I) in Python (OOP)
+- [Recursion](https://github.com/oscarplatoon/recursion)
+- [Binary Search](https://github.com/oscarplatoon/binary-search) in JS/Python
 
 # Tuesday, June 08, 2021
 - [App Users II](https://github.com/oscarplatoon/app-users-II) in Python (Object Orientation)
