@@ -4,7 +4,7 @@
 Students, welcome to Code Platoon! Be prepared to push yourself and to work hard towards your new career. We are happy you are here and are here to support you. If you need anything, please don't hesitate to ask. There are many resources available to you on your journey!
 
 ## Getting Started
-You will see curriculum broken down by weeks and days. You can see a calendar of topics [here](https://docs.google.com/spreadsheets/d/178C1rmf7rt3ya5tRDOog1g6TYQPetc1xWjI5b5n2ruU/edit?usp=sharing).
+You can view our cohort's [curriculum calendar](https://docs.google.com/spreadsheets/d/1yMBuRLecVdhzgXTaUid0O3oMNg3GxPPXCuCUR4CGLNc/edit?usp=sharing), which is broken down by weeks and days.
 
 ![Fullstack Development](https://github.com/oscarplatoon/curriculum/blob/master/page-resources/cp_fullstack_development.png)
 
