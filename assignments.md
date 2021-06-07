@@ -72,8 +72,6 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 
 # Wednesday, June 09, 2021
 - [App Users III](https://github.com/oscarplatoon/app-users-III) in Python (Object Orientation)
-- [Recursion](https://github.com/oscarplatoon/recursion)
-- [Binary Search](https://github.com/oscarplatoon/binary-search) in JS/Python
 - [RegexOne](https://regexone.com/python)
 - [Phone Numbers](https://github.com/oscarplatoon/validate-phone) in Python Regular Expressions
 
