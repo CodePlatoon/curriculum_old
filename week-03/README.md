@@ -1,5 +1,6 @@
 # Weekly Topics:
 - Recursion
+- Data Structures
 - Regex
 - Python packages & Javascript libraries
 - Assessment #2 at end of the week!
