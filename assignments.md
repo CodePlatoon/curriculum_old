@@ -92,11 +92,14 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 # Tuesday, June 15, 2021
 - [Wire Framing/Boxing Exercise](https://github.com/oscarplatoon/wire-framing-boxing-exercise)
 - [LinkedIn HTML](https://github.com/oscarplatoon/linkedin-html)
+- [Styling with Bootstrap](https://github.com/oscarplatoon/bootstrap)
 
 # Wednesday, June 16, 2021
 - [LinkedIn JS](https://github.com/oscarplatoon/linkedin-js)
 - [Browser Storage](https://github.com/oscarplatoon/browser-storage)
 - [Guess A Number](https://github.com/oscarplatoon/number-guessing-game)
+**Stretch**
+- [Create a Static Webpage (weeklong challenge)](https://github.com/oscarplatoon/static-webpage)
 
 # Thursday, June 17, 2021
 - [Simple Todo](https://github.com/oscarplatoon/simple-todo)  
