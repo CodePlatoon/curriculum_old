@@ -109,6 +109,12 @@ $ ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
 $ launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
 ````
 
+If you're on an M1, try this instead:
+```sh
+$ sudo ln -sfv /opt/homebrew/opt/postgresql/*.plist ~/Library/LaunchAgents
+$ launchctl load /opt/homebrew/opt/postgresql/homebrew.mxcl.postgresql.plist
+````
+
 ```sh
 $ which postgres
 /usr/local/bin/postgres
