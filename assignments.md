@@ -147,7 +147,8 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 - [Chicago Salaries](https://github.com/oscarplatoon/city-of-chicago)
 
 # Friday, June 25, 2021
-- Need to add challenges here!
+- [Python Virtual Environment](https://youtu.be/4jt9JPoIDpY)
+- [Using Django To Interact with your Database](https://opensource.com/article/17/11/django-orm)
 
 # Monday, June 28, 2021
 *do assignments in this order*
