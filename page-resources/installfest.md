@@ -19,7 +19,6 @@ $ xcode-select --install
 ```
 This installs the Command Line Tools package via the Terminal application. This is to ensure you have it installed correctly and in the correct path.
 
-
 ## `code`
 
 This is a command that allows you to open a file or directory in your VSCode text editor from the command line. After installing VSCode from the website and putting it in your applications folder, please follow these instructions up to and including `Restart the terminal`: https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
@@ -28,7 +27,12 @@ This creates a symbolic link for your command line and you can run `code SOME_FI
 
 ## Homebrew
 
-First let's ensure we've installed homebrew correctly.
+First let's make sure you're using bash as the default shell:
+```sh
+$ chsh -s /bin/bash
+```
+
+Then, let's ensure we've installed homebrew correctly.
 
 ```sh
 $ which brew
@@ -227,7 +231,7 @@ $ git config --global core.excludesfile '~/.gitignore_global'
 
 Next, You'll want to get your gitconfig setup to recognize your github credentials:
 1. Set up your command line Git [username](https://help.github.com/articles/setting-your-username-in-git/)
-2. Set up your command line Git user [email](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
+2. Set up your command line Git user [email](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git)
 3. Cache your Github [password](https://help.github.com/articles/caching-your-github-password-in-git/) so that you don't have to type it in every single time you push to Github
 
 Finally, ensure that VSCode is your global text editor for all things Git:
