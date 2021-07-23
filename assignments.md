@@ -194,8 +194,9 @@ We want you to solve today's challenges in Javascript and in Python. For the Pyt
 - [Ticketmaster & News Group Project](https://github.com/oscarplatoon/ticketmaster)
 
 # Friday, July 16, 2021
-- [Meetup](https://github.com/oscarplatoon/django-meetup)
-- Pick your own project using at least 2 third-party APIs
+- [TicketMaster group project](https://github.com/oscarplatoon/ticketmaster)
+- Stretch: [Meetup](https://github.com/oscarplatoon/django-meetup)
+- Stretch: Pick your own project using at least 2 third-party APIs
 
 # Monday, July 19, 2021
 - [Detention](https://github.com/oscarplatoon/detention)
