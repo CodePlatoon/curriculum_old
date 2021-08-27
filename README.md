@@ -44,3 +44,6 @@ Classroom videos/lectures will be recorded and posted to [YouTube](https://www.y
 
 ## Student Resources
 Students from previous cohorts have added a list of resources that they found helpful broken down by week and day. Please take a look at [this link](https://docs.google.com/spreadsheets/d/1nX1ylt8AOWVnwZ5v-naN7K2bfhlfZm8TRzepOuXdqWw/edit#gid=0) and add your own for future cohorts!
+
+## Code Platoon Guest Speakers & Workshops Feedback
+Our guest speakers like to receive feedback for their workshops/presentations. Please fill out this [Workshop Feedback Form](https://forms.gle/tJd5XwcSGHeXXASo7) and we'll aggregate all the feedback and give it to them.
