@@ -20,5 +20,10 @@
 8. Clearly express the history of the web and why we used, but no longer use, AJAX
 9. Use fetch to get asynchronous data from external sources and bring it into a React app
 
+# Breakout Sessions
+1. Props and State
+2. Functional Components vs. Class Based Components
+3. Anything else...
+
 # Behavioral Question of the Week:
 - "Tell me about a time where you had to work with a difficult person"
