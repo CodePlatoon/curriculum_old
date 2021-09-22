@@ -19,5 +19,10 @@
 8. Use Django specific helper methods and classes.
 9. Create simple CRUD websites using Django and permanently save information to databases.
 
+# Breakout Sessions
+1. Schema Design using Django ORM
+2. Django overview
+3. Anything else...
+
 # Behavioral Question of the Week:
 - "Tell me about a time where you took on a leadership role"
