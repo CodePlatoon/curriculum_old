@@ -16,4 +16,7 @@
 2. Utilize OOP Inheritance to extend the usage of your Objects
 3. Create, Read, Write, and Delete from a CSV file
 
-
+# Breakout Sessions
+1. OOP Review
+2. Working with CSVs
+3. Anything else...
