@@ -17,5 +17,10 @@
 5. Design and build web pages that respond to user's behavior by loading JS in HTML
 6. (pending move...) Use Asynchronous JS and the Fetch API to get data from and post data to web pages
 
+# Breakout Sessions
+1. HTML & CSS
+2. Linking JavaScript to HTML 
+3. Anything else...
+
 # Behavioral Question of the Week:
 - "Tell me about yourself"
