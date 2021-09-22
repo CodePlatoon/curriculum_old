@@ -10,6 +10,11 @@
 2. More practice deploying web applications to Heroku.
 3. Have a better understanding of the inner workings of full web apps and build them more efficiently.
 
+# Breakout Sessions
+1. Serializers (passing data from backend to frontend)
+2. Token Auth
+3. Anything else...
+
 # Individual Project:
 - The individual project will be your last assessment of the course, assessment #5. It'll push your creativity and technical skills, preparing you for your group capstone project, and for your professional life outside of the cohort.
 - You will be required to write a full-stack web app, including nested CRUD, routing, testing, and at least 2 3rd party APIs. Here are the full requirements: {TO DO: ADD RUBRIC FOR ASSESSMENT #5}
