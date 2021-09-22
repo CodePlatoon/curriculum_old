@@ -19,5 +19,10 @@
 9. Read, analyze, and display data from APIs.
 10. Quickly write a simple CRUD interface from memory using all the tools we've learned to date.
 
+# Breakout Sessions
+1. CRUD in Django
+2. Connecting to a 3rd Party API
+3. Anything else...
+
 # Behavioral Question of the Week:
 - "Tell me about a time that you failed"
