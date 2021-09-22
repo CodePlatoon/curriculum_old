@@ -23,3 +23,8 @@
 6. Create Test Specs to test your code
 7. Be able to write simple JavaScript applications
 8. Be able to write simple Python applications
+
+# Breakout Sessions
+1. JavaScript & Python Fundamentals
+2. TDD
+3. Anything else...
