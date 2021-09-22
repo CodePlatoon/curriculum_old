@@ -17,5 +17,10 @@
 7. Modify database schema using the SQL
 8. Use Python to execute SQL Commands
 
+# Breakout Sessions
+1. Schema Design
+2. SQL Queries
+3. Anything else...
+
 # Behavioral Question of the Week:
 - "Tell me about a time you had to work on a team"
