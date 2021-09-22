@@ -16,3 +16,8 @@
 3. Use regex to solve challenges
 4. Understand basic data structures
 5. Know how to calculate Big O
+
+# Breakout Sessions
+1. OOP or Writing Unit Tests
+2. Data Structures
+3. Anything else...
