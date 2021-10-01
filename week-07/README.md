@@ -3,6 +3,9 @@
 - Third-party APIs (Application programming interface)
 - Assessment #4 at end of the week!
 
+# Lecture Videos:
+- [Week 7 Videos](https://www.youtube.com/watch?v=d4aAm1v8ecQ&list=PLu0CiQ7bzwES1o9EOzqk6gVFY2DUj4B6v)
+
 # Why is it important?
 - CRUD (create, read, update, delete) applications are incredibly popular and are used extensively. If you've ever used Facebook, Twitter, YouTube, LinkedIn, or any other website that takes advantage of reading and writing posts into persistent storage, then you've used a CRUD website. Most websites you build as a developer are going to be CRUD based.
 - More Django practice will come in handy when you're building the backend of your final projects.

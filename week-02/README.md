@@ -4,6 +4,9 @@
 - Interacting with a CSV file
 - Assessment #1 at end of the week!
 
+# Lecture Videos:
+- [Week 2 Videos](https://www.youtube.com/watch?v=_5cyPcce67U&list=PLu0CiQ7bzwEQkXphTAp5WUM9E2RD_k3GT)
+
 # Why is it important?
 - OOP is a programming paradigm that provides a means of structuring programs so that properties and behaviors are bundled into individual objects
 - Understanding OOP is important to know how to structure and break down problems & is used a lot in Python

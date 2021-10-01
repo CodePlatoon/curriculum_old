@@ -4,6 +4,9 @@
 - Interacting with web pages using JavaScript
 - (pending move...) HTTP Server & the `fetch()` API
 
+# Lecture Videos:
+- [Week 4 Videos](https://www.youtube.com/watch?v=iH2CXPXXS_c&list=PLu0CiQ7bzwESaJRln6-zRsKI_szqMOXSX)
+
 # Why is it important?
 - HTML is the foundation of all web pages; without HTML, you wouldn’t be able to organize text or add images or videos to your web pages and thus it is essential for any job in web development. 
 - CSS describes how HTML elements are to be displayed, determining the layout, font, color, and any other aesthetic choices for your web pages and thus is key in determining how users will interact with your pages and important knowledge for work as a web developer. 

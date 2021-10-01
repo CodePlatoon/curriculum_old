@@ -3,6 +3,8 @@
 - Database Schema Design
 - Assessment #3 at end of the week!
 
+- [Week 5 Videos](https://www.youtube.com/watch?v=YdHtJL9hmnM&list=PLu0CiQ7bzwERjYlpuhlVdSBFadxvVwsCt)
+
 # Why is it important?
 - SQL is the most commonly used database language and understanding basic SQL commands is beneficial to your job since it's language agnostic and is in high demand.
 - Database design will help you efficiently manage stored data and enable you to scale your database without having to refactor your database schema often.

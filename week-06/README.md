@@ -2,6 +2,9 @@
 - Django ORM (object-relational mapping)
 - Django CRUD basics
 
+# Lecture Videos:
+- [Week 6 Videos](https://www.youtube.com/watch?v=FuXThccByUU&list=PLu0CiQ7bzwEQ7RukpENm1lTGPkWPpRoj8)
+
 # Why is it important?
 - Django's ORM offers a streamlined and intuitive way for Python applications to interact with SQL databases, as opposed to tediously writing raw SQL queries.
 - Using Django's ORM will allow you to easily modify and access databases using an object-oriented, 'python-istic' approach.

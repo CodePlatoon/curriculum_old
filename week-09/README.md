@@ -5,6 +5,9 @@
 - Django as an API using Django REST Framework
 - Heroku for app deployment
 
+# Lecture Videos:
+- [Week 9 Videos](https://www.youtube.com/watch?v=ncIbjV3INZE&list=PLu0CiQ7bzwESS9BU10Ut5r2MprRmrDbsk)
+
 # Why is it important?
 - Promises is the JS concept that allows us to make calls to web services. Understanding this concept is necessary for using fetch to bring dynamic data from an external source into an app you're building.
 - Component lifecycles allow you to hook into a React class component at a particular stage, which has various effects. As a developer, you'll want certain important requests, such as calling out to you API, to happen at a certain stage and you'll use lifecycle methods to do so.

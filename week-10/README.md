@@ -2,6 +2,9 @@
 - Connecting our Django API to our React frontend
 - Individual projects
 
+# Lecture Videos:
+- [Week 10 Videos](https://www.youtube.com/watch?v=Jb0D5JeYu38&list=PLu0CiQ7bzwES-jDWblHChNrxC1YuSn44Y)
+
 # Why is it important?
 - Separating our frontend and backend allows for elegant code organization and easy scalability, allowing us to work on the frontend or backend without having to modify the other.
 
