@@ -3,7 +3,7 @@
 - Django CRUD basics
 
 # Lecture Videos:
-- [Week 6 Videos](https://www.youtube.com/watch?v=FuXThccByUU&list=PLu0CiQ7bzwEQ7RukpENm1lTGPkWPpRoj8)
+- [Week 6 Videos](https://www.youtube.com/watch?v=uv6Qp8VTT5k&list=PLu0CiQ7bzwEQjEB1osuIpyLqjK0zL7IfO)
 
 # Why is it important?
 - Django's ORM offers a streamlined and intuitive way for Python applications to interact with SQL databases, as opposed to tediously writing raw SQL queries.

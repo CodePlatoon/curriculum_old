@@ -3,7 +3,7 @@
 - Database Schema Design
 - Assessment #3 at end of the week!
 
-- [Week 5 Videos](https://www.youtube.com/watch?v=YdHtJL9hmnM&list=PLu0CiQ7bzwERjYlpuhlVdSBFadxvVwsCt)
+- [Week 5 Videos](https://www.youtube.com/watch?v=4tKIvtLjjkc&list=PLu0CiQ7bzwETW_JOvBC3VSrJoyc_KaT_H)
 
 # Why is it important?
 - SQL is the most commonly used database language and understanding basic SQL commands is beneficial to your job since it's language agnostic and is in high demand.

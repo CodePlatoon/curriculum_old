@@ -6,7 +6,7 @@
 - Assessment #2 at end of the week!
 
 # Lecture Videos:
-- [Week 3 Videos](https://www.youtube.com/watch?v=YZC9puFoxSw&list=PLu0CiQ7bzwEQEUZSC2zO-KbvMbeQNhFKk)
+- [Week 3 Videos](https://www.youtube.com/watch?v=rDAopI0Gu3c&list=PLu0CiQ7bzwERgFxBtNukYQbePqH5G9AL1)
 
 # Why is it important?
 - Modules/Packages are essential to software development since it allows you to perform specific tasks without having to reinvent the wheel or solve a problem from scratch

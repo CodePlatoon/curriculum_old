@@ -6,7 +6,7 @@
 - Heroku for app deployment
 
 # Lecture Videos:
-- [Week 9 Videos](https://www.youtube.com/watch?v=ncIbjV3INZE&list=PLu0CiQ7bzwESS9BU10Ut5r2MprRmrDbsk)
+- [Week 9 Videos](https://www.youtube.com/watch?v=TaUtQUA41Zk&list=PLu0CiQ7bzwETvpsQ8AhZfTMTjFVmW3ozp)
 
 # Why is it important?
 - Promises is the JS concept that allows us to make calls to web services. Understanding this concept is necessary for using fetch to bring dynamic data from an external source into an app you're building.

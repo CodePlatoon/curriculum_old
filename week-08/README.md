@@ -4,7 +4,7 @@
 - Fetch and JavaScript promises
 
 # Lecture Videos:
-- [Week 8 Videos](https://www.youtube.com/watch?v=9UbDmPP5veo&list=PLu0CiQ7bzwEQhJQJayKtzr22duTPCvYMP)
+- [Week 8 Videos](https://www.youtube.com/watch?v=hwabJgEOeHE&list=PLu0CiQ7bzwEQ_ix4UZUGTXz0ar32Up6zl)
 
 # Why is it important?
 - React is a JavaScript library you will use in web development to make elements of your interface that users can interact with—not just view—which is a requirement for most applications and projects you will work on. 

@@ -6,7 +6,7 @@
 - Python fundamentals
 
 # Lecture Videos:
-- [Week 1 Videos](https://www.youtube.com/watch?v=6aNz3ptwTjI&list=PLu0CiQ7bzwEQ7l_3gNRFPfh4-ilnPpoS8)
+- [Week 1 Videos](https://www.youtube.com/watch?v=Th5IZWwT5KE&list=PLu0CiQ7bzwESWqaOWLuaB4ba2OTTBMx-3)
 
 # Why is it important?
 - Git helps you create different 'save points' in your application.
