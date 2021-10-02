@@ -6,7 +6,7 @@ Students, welcome to Code Platoon! Be prepared to push yourself and to work hard
 ## Getting Started
 You can view our cohort's [curriculum calendar](https://docs.google.com/spreadsheets/d/19ubW0BeTE4JevmRpc4JhWMRrnk2GLOKgfMtphXPFrcM/edit?usp=sharing), which is broken down by weeks and days.
 
-![Fullstack Development](https://github.com/papaplatoon/curriculum/blob/master/page-resources/cp_fullstack_development.png)
+![Fullstack Development](https://github.com/codeplatoon/curriculum/blob/master/page-resources/cp_fullstack_development.png)
 
 Click [here](https://docs.google.com/document/d/1KgNFbDhihSJv6OGYjFDhESaDJ6ljOyVoRQse7oQH1I0/edit?usp=sharing) to view the student handbook.
 
@@ -19,7 +19,7 @@ Your questions should be pointed (i.e., not "Can someone help me?"), show that y
 
 ## Submitting Work for Review
 1. Navigate to your desktop from your terminal(`cd ~/desktop`)
-2. Hit the `Fork` icon on the top right to copy the repo to your username instead of `papaplatoon`
+2. Hit the `Fork` icon on the top right to copy the repo to your username instead of `codeplatoon`
 3. Clone down the repository to your desktop (`git clone REPO_LINK.git`)
 4. Checkout a new branch (`git checkout -b SOLO/PAIR_YOUR_GITHUB_USERNAME`)
 5. Update whatever work you need to
