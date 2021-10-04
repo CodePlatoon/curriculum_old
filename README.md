@@ -13,7 +13,7 @@ Click [here](https://docs.google.com/document/d/1KgNFbDhihSJv6OGYjFDhESaDJ6ljOyV
 ## Asking Questions in Slack / Slack Etiquette
 Before anything, read through [Slack etiquette](https://slack.com/blog/collaboration/etiquette-tips-in-slack).
 
-Questions should be asked in the #papa_questions public Slack channel using proper [formating](https://slack.com/help/articles/202288908-Format-your-messages) (see Inline code section), not via TA or instructor DM. This reflects the industry norms - companies want their engineers to have discussions publicly so that questions can be easily searched and referenced.
+Questions should be asked in the #self_paced_curriculum public Slack channel using proper [formating](https://slack.com/help/articles/202288908-Format-your-messages) (see Inline code section), not via TA or instructor DM. This reflects the industry norms - companies want their engineers to have discussions publicly so that questions can be easily searched and referenced.
 
 Your questions should be pointed (i.e., not "Can someone help me?"), show that you’ve read through the code/error, should contain your thought process / some potential solutions, and should not be anything that is easily Google-able. Once you ask a question and find a solution, please update your question thread so that other students can benefit from seeing the question and answer.
 
