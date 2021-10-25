@@ -29,9 +29,6 @@ Your questions should be pointed (i.e., not "Can someone help me?"), show that y
 8. Push the changes up to Github (`git push origin NAME_OF_BRANCH`)
 9. Open a pull request, comparing your forked `branch` to the original `master` branch
 
-## Daily Check-ins
-It is important for you to have a place to talk about how you are feeling and how you feel you are progressing. Every morning before class starts, please fill out [this form](https://forms.gle/19mrYTvYWWQS9gr36).
-
 ## What should I do if I finish everything on any given day?
 1. Help those around you. Teaching solidifies learning.
 2. Watch tomorrow's video to get yourself a leg up on the next day!
@@ -44,6 +41,3 @@ Classroom videos/lectures will be recorded and posted to [YouTube](https://www.y
 
 ## Student Resources
 Students from previous cohorts have added a list of resources that they found helpful broken down by week and day. Please take a look at [this link](https://docs.google.com/spreadsheets/d/1nX1ylt8AOWVnwZ5v-naN7K2bfhlfZm8TRzepOuXdqWw/edit#gid=0) and add your own for future cohorts!
-
-## Code Platoon Guest Speakers & Workshops Feedback
-Our guest speakers like to receive feedback for their workshops/presentations. Please fill out this [Workshop Feedback Form](https://forms.gle/tJd5XwcSGHeXXASo7) and we'll aggregate all the feedback and give it to them.
