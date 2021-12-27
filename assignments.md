@@ -1,5 +1,5 @@
 # Week 1 / Day 1
-- [99 Bottles](https://github.com/codeplatoon/aldo-99-bottles) in JS
+- [99 Bottles](https://github.com/codeplatoon/algo-99-bottles) in JS
 - [Deaf Grandma](https://github.com/codeplatoon/algo-deaf-grandma) in JS
 - [Terminal Commands In Depth](https://github.com/codeplatoon/misc-command-line) ...nothing to submit here but necessary reading
 
