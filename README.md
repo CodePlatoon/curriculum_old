@@ -11,9 +11,11 @@ You can view our cohort's [curriculum calendar](https://docs.google.com/spreadsh
 Click [here](https://docs.google.com/document/d/1KgNFbDhihSJv6OGYjFDhESaDJ6ljOyVoRQse7oQH1I0/edit?usp=sharing) to view the student handbook.
 
 ## Asking Questions in Slack / Slack Etiquette
+Please join the Code Platoon's `#self_paced_curriculum` Slack Channel [here](https://join.slack.com/t/codeplatoonteam/shared_invite/zt-tu65s5qq-Cn~6K0vnDE0S4tBaY3OhsQ).
+
 Before anything, read through [Slack etiquette](https://slack.com/blog/collaboration/etiquette-tips-in-slack).
 
-Questions should be asked in the #self_paced_curriculum public Slack channel using proper [formating](https://slack.com/help/articles/202288908-Format-your-messages) (see Inline code section), not via TA or instructor DM. This reflects the industry norms - companies want their engineers to have discussions publicly so that questions can be easily searched and referenced.
+Questions should be asked in the `#self_paced_curriculum` public Slack channel using proper [formating](https://slack.com/help/articles/202288908-Format-your-messages) (see Inline code section), not via TA or instructor DM. This reflects the industry norms - companies want their engineers to have discussions publicly so that questions can be easily searched and referenced.
 
 Your questions should be pointed (i.e., not "Can someone help me?"), show that you’ve read through the code/error, should contain your thought process / some potential solutions, and should not be anything that is easily Google-able. Once you ask a question and find a solution, please update your question thread so that other students can benefit from seeing the question and answer.
 
